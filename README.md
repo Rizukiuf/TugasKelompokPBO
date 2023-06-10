@@ -1,6 +1,6 @@
 # TugasKelompokPBO
-    Kelas: PBO C
     Program Kalkulator Sederhana
+    Kelas: PBO C
     Anggota:
     Abyan Izzah Azzam Hastono   (24060121130082)
     Daffa Aulia Rizky Karunia   (24060121130070)

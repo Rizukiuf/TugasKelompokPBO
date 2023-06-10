@@ -1,5 +1,5 @@
 # TugasKelompokPBO
-*Program Kalkulator Sederhana
+    Program Kalkulator Sederhana
     Abyan Izzah Azzam Hastono   (24060121130082)
     Daffa Aulia Rizky Karunia   (24060121130070)
     Dhiya Ulhaq                 (24060121140134)
